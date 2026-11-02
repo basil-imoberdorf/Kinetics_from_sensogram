@@ -1,0 +1,18 @@
+KinetiHub Data Metadata
+========================================
+
+Dataset Name: biotin CK1 short C NtoA muts
+
+Original Filename: 20260824 biotin CK1 short C NtoA muts.zip
+Vendor: Sartorius (Octet/ForteBio)
+Upload Date: 2026-08-25T21:05:12.513915+00:00
+
+Molecules
+--------------------
+Ligand: biotinCK1 (Protein)
+Analyte: N408A (Protein)
+
+Experimental Conditions
+--------------------
+Instrument: OctetRED96e
+Chip Type: Streptavidin (SA)

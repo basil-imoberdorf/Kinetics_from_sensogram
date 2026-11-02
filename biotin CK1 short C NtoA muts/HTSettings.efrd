@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ForteBioExtendedExperiment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="1">
+  <DataSegment>
+    <Segment>
+      <Path>.</Path>
+    </Segment>
+  </DataSegment>
+  <WorkspaceId>e77cd1bc-3e4c-498d-9c46-cd59ec99aee3</WorkspaceId>
+  <CommonSettings>
+    <ExperimentSettings>
+      <ExperimentPath>C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts</ExperimentPath>
+      <CustomTraceColors />
+      <KineticReportPoints />
+      <FullTraceReportPoints />
+      <AssayInfo />
+    </ExperimentSettings>
+  </CommonSettings>
+  <GxPSignature d1p1:nil="true" xmlns:d1p1="http://www.w3.org/2001/XMLSchema-instance" />
+  <KineticSettings>
+    <GroupViewOptions>
+      <DataSource>AllData</DataSource>
+      <ShowCurveFits>true</ShowCurveFits>
+      <GroupByCols>
+        <int>11</int>
+        <int>-1</int>
+        <int>-1</int>
+      </GroupByCols>
+      <Legends>
+        <int>4</int>
+        <int>-1</int>
+      </Legends>
+      <LegendCol1Pair Index="4" Name="Sensor Location" />
+      <LegendCol2Pair Index="-1" Name="None" />
+      <AutoSizeOn>true</AutoSizeOn>
+      <AutoSizeWidthRatio>1.5</AutoSizeWidthRatio>
+      <FixedSizeWidth>400</FixedSizeWidth>
+      <FixedSizeHeight>300</FixedSizeHeight>
+      <ShowTitle>true</ShowTitle>
+      <IncludeColName>true</IncludeColName>
+      <IncludeLegendByInfo>false</IncludeLegendByInfo>
+      <XAxisScaleVisible>true</XAxisScaleVisible>
+      <XAxisLabelVisible>true</XAxisLabelVisible>
+      <YAxisScaleVisible>true</YAxisScaleVisible>
+      <YAxisLabelVisible>true</YAxisLabelVisible>
+      <ShowGridLines>true</ShowGridLines>
+      <ShowStepDividers>true</ShowStepDividers>
+      <ShowZebraStripes>false</ShowZebraStripes>
+      <ShowLegend>false</ShowLegend>
+      <ShowDistinctColors>false</ShowDistinctColors>
+      <IncludedTracesOnly>false</IncludedTracesOnly>
+      <AdditionalGraphs>SteadyState</AdditionalGraphs>
+      <GraphsPerRow>2</GraphsPerRow>
+    </GroupViewOptions>
+    <KineticFitParams AssayIndex="0">
+      <Version>1</Version>
+      <FitType>Global</FitType>
+      <StepsToAnalyze>Both</StepsToAnalyze>
+      <BindingModel>FastTwo2One</BindingModel>
+      <FitDataIncrement>1</FitDataIncrement>
+      <DissocToPreAssocBaseline>false</DissocToPreAssocBaseline>
+      <PartialFit>false</PartialFit>
+      <FitGroupBy>SampleId</FitGroupBy>
+      <RmaxUnlink>Sensor</RmaxUnlink>
+      <AssocStartTime>0</AssocStartTime>
+      <AssocEndTime>300.002001953125</AssocEndTime>
+      <DissocStartTime>0</DissocStartTime>
+      <DissocEndTime>300.01402587890624</DissocEndTime>
+      <DefAssocTime>300.002001953125</DefAssocTime>
+      <DefDissocTime>300.01402587890624</DefDissocTime>
+      <AssocStartPt>0</AssocStartPt>
+      <AssocEndPt>1500</AssocEndPt>
+      <DissocStartPt>0</DissocStartPt>
+      <DissocEndPt>1500</DissocEndPt>
+      <ExportOptions>
+        <ReportOption>ExperimentSummary StackedView GroupView IndividualView ResultTable IsoAffinity SteadyState RawAndAlignedData IndividualResults</ReportOption>
+      </ExportOptions>
+      <DeltaT>0.2</DeltaT>
+      <ExcludedEpisode />
+      <SSResponse>false</SSResponse>
+      <SSResponseFrom>290.002001953125</SSResponseFrom>
+      <SSResponseTo>295.002001953125</SSResponseTo>
+      <CustomCycleColors />
+      <FitGraphOptions>
+        <GraphTitle Title="" Show="false" Fontsize="10" FontFamily="" FontStyle="" ShowGridline="true" ShowZebraStripe="false" ShowLegend="false" />
+        <XAxis Label="Time (s)" ShowLabel="true" ShowTicMarks="true" ShowZero="false" ShowLogscale="false" />
+        <YAxis Label="nm" ShowLabel="true" ShowTicMarks="true" ShowZero="false" ShowLogscale="false" />
+        <Legend Show="false">
+          <FirstLegend Index="-1" Name="None" />
+          <SecondLegend Index="-1" Name="None" />
+        </Legend>
+        <ShowSteps>true</ShowSteps>
+      </FitGraphOptions>
+      <GroupGraphOptions>
+        <GraphTitle Title="" Show="false" Fontsize="10" FontFamily="" FontStyle="" ShowGridline="true" ShowZebraStripe="false" ShowLegend="false" />
+        <XAxis Label="Time (s)" ShowLabel="true" ShowTicMarks="true" ShowZero="false" ShowLogscale="false" />
+        <YAxis Label="nm" ShowLabel="true" ShowTicMarks="true" ShowZero="false" ShowLogscale="false" />
+        <Legend Show="false">
+          <FirstLegend Index="4" Name="Sensor Location" />
+          <SecondLegend Index="-1" Name="None" />
+        </Legend>
+        <ShowSteps>true</ShowSteps>
+      </GroupGraphOptions>
+      <IndividualGraphOptions>
+        <GraphTitle Title="" Show="false" Fontsize="10" FontFamily="" FontStyle="" ShowGridline="true" ShowZebraStripe="false" ShowLegend="false" />
+        <XAxis Label="Time (s)" ShowLabel="true" ShowTicMarks="true" ShowZero="false" ShowLogscale="false" />
+        <YAxis Label="nm" ShowLabel="true" ShowTicMarks="true" ShowZero="false" ShowLogscale="false" />
+        <Legend Show="false">
+          <FirstLegend Index="-1" Name="None" />
+          <SecondLegend Index="-1" Name="None" />
+        </Legend>
+        <ShowSteps>true</ShowSteps>
+      </IndividualGraphOptions>
+      <SavedColOrders>
+        <string />
+      </SavedColOrders>
+    </KineticFitParams>
+  </KineticSettings>
+  <PreprocessSettings>
+    <CorrectionSettings>
+      <RootSensorByLocation>false</RootSensorByLocation>
+      <SensorReference>
+        <Plate Index="0" Size="96">
+          <RefWells>A5, A7, B5, B7, C5, C7, D5, D7, E5, E7, F5, F7, G5, G7, H5, H7</RefWells>
+          <RefLoadWells />
+          <RefDetectionWells />
+          <RefGroup>
+            <RefWells>A5</RefWells>
+            <RelatedWells>A6</RelatedWells>
+          </RefGroup>
+          <RefGroup>
+            <RefWells>A7</RefWells>
+            <RelatedWells>A8</RelatedWells>
+          </RefGroup>
+          <RefGroup>
+            <RefWells>B5</RefWells>
+            <RelatedWells>B6</RelatedWells>
+          </RefGroup>
+          <RefGroup>
+            <RefWells>B7</RefWells>
+            <RelatedWells>B8</RelatedWells>
+          </RefGroup>
+          <RefGroup>
+            <RefWells>C5</RefWells>
+            <RelatedWells>C6</RelatedWells>
+          </RefGroup>
+          <RefGroup>
+            <RefWells>C7</RefWells>
+            <RelatedWells>C8</RelatedWells>
+          </RefGroup>
+          <RefGroup>
+            <RefWells>D5</RefWells>
+            <RelatedWells>D6</RelatedWells>
+          </RefGroup>
+          <RefGroup>
+            <RefWells>D7</RefWells>
+            <RelatedWells>D8</RelatedWells>
+          </RefGroup>
+          <RefGroup>
+            <RefWells>E5</RefWells>
+            <RelatedWells>E6</RelatedWells>
+          </RefGroup>
+          <RefGroup>
+            <RefWells>E7</RefWells>
+            <RelatedWells>E8</RelatedWells>
+          </RefGroup>
+          <RefGroup>
+            <RefWells>F5</RefWells>
+            <RelatedWells>F6</RelatedWells>
+          </RefGroup>
+          <RefGroup>
+            <RefWells>F7</RefWells>
+            <RelatedWells>F8</RelatedWells>
+          </RefGroup>
+          <RefGroup>
+            <RefWells>G5</RefWells>
+            <RelatedWells>G6</RelatedWells>
+          </RefGroup>
+          <RefGroup>
+            <RefWells>G7</RefWells>
+            <RelatedWells>G8</RelatedWells>
+          </RefGroup>
+          <RefGroup>
+            <RefWells>H5</RefWells>
+            <RelatedWells>H6</RelatedWells>
+          </RefGroup>
+          <RefGroup>
+            <RefWells>H7</RefWells>
+            <RelatedWells>H8</RelatedWells>
+          </RefGroup>
+          <ExcludeWells />
+        </Plate>
+        <GroupRefByPlate>false</GroupRefByPlate>
+      </SensorReference>
+      <SampleReference>
+        <Plate Index="0" Size="96">
+          <RefWells>H9, H10, H11, H12</RefWells>
+          <RefLoadWells />
+          <RefDetectionWells />
+          <RefGroup>
+            <RefWells>H10</RefWells>
+            <RelatedWells>A10, B10, C10, D10, E10, F10, G10</RelatedWells>
+          </RefGroup>
+          <RefGroup>
+            <RefWells>H11</RefWells>
+            <RelatedWells>A11, B11, C11, D11, E11, F11, G11</RelatedWells>
+          </RefGroup>
+          <ExcludeWells />
+        </Plate>
+        <Plate Index="1" Size="96">
+          <RefWells />
+          <RefLoadWells />
+          <RefDetectionWells />
+          <ExcludeWells />
+        </Plate>
+        <GroupRefByPlate>false</GroupRefByPlate>
+      </SampleReference>
+      <AlignmentSettings>
+        <AlignYCorrection>AverageBaseline</AlignYCorrection>
+        <AlignYStart>115.016009521484</AlignYStart>
+        <AlignYEnd>120.016009521484</AlignYEnd>
+        <InterstepCorrection>None</InterstepCorrection>
+        <InterstepCorrectionTime>0</InterstepCorrectionTime>
+        <SavitzkyGolayFilter>true</SavitzkyGolayFilter>
+      </AlignmentSettings>
+      <QuantSettings>
+        <AnalysisStep>0</AnalysisStep>
+        <FlipData>false</FlipData>
+        <IgnoreError>false</IgnoreError>
+        <AlignXStart>0</AlignXStart>
+        <AlignX>false</AlignX>
+      </QuantSettings>
+      <ExportOptions>
+        <ReportOption>ExperimentSummary StackedView GroupView IndividualView ResultTable IsoAffinity SteadyState RawAndAlignedData IndividualResults</ReportOption>
+      </ExportOptions>
+    </CorrectionSettings>
+  </PreprocessSettings>
+</ForteBioExtendedExperiment>

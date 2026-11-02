@@ -1,0 +1,211 @@
+2026/08/24 17:09:59.0 
+2026/08/24 17:09:59.0 Octet Data Acquisition 11.0.0.64 (debug build)
+2026/08/24 17:09:59.0 
+2026/08/24 17:09:59.1 CreateToolbar()
+2026/08/24 17:10:02.3 SetHeaterTemperature 30.0
+2026/08/24 17:10:02.3 Temperature monitor ENABLE
+2026/08/24 17:10:48.3 Integration Time:  1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0,
+2026/08/24 17:10:49.3 Pickups: 3838, Warn: 90, Error: 100
+2026/08/24 17:16:45.8 SetHeaterTemperature 25.0
+2026/08/24 17:16:45.9 Temperature monitor ENABLE
+2026/08/24 17:16:46.0 Temp: 2026/08/24 17:16:46, 29.8000, 25.7000
+2026/08/24 17:16:46.0 bShakeWhileWaiting=1, nShakerRPM=1000
+2026/08/24 17:16:46.0 DELAYED START: Waiting for 600 s
+2026/08/24 17:17:46.2 Temp: 2026/08/24 17:17:46, 24.6000, 25.7000
+2026/08/24 17:18:46.4 Temp: 2026/08/24 17:18:46, 24.8000, 25.8000
+2026/08/24 17:19:46.5 Temp: 2026/08/24 17:19:46, 24.9000, 25.8000
+2026/08/24 17:20:46.7 Temp: 2026/08/24 17:20:46, 25.0000, 25.9000
+2026/08/24 17:21:46.8 Temp: 2026/08/24 17:21:46, 25.0000, 25.8000
+2026/08/24 17:22:47.0 Temp: 2026/08/24 17:22:47, 25.0000, 25.8000
+2026/08/24 17:23:47.2 Temp: 2026/08/24 17:23:47, 25.0000, 25.8000
+2026/08/24 17:24:47.3 Temp: 2026/08/24 17:24:47, 25.0000, 25.7000
+2026/08/24 17:25:47.5 Temp: 2026/08/24 17:25:47, 25.0000, 25.7000
+2026/08/24 17:26:47.3 DELAYED START: Done.
+2026/08/24 17:26:47.6 Plate 1 temperature = 25 C
+2026/08/24 17:26:47.8 Temp: 2026/08/24 17:26:47, 25.0000, 25.7000
+2026/08/24 17:26:47.8 Temp: 2026/08/24 17:26:47, 25.0000, 25.7000
+2026/08/24 17:26:57.3 Sensor 1: Integration Time = 4.1 ms
+2026/08/24 17:26:57.3 Sensor 2: Integration Time = 2.6 ms
+2026/08/24 17:26:57.3 Sensor 3: Integration Time = 3.2 ms
+2026/08/24 17:26:57.3 Sensor 4: Integration Time = 2.7 ms
+2026/08/24 17:26:57.3 Sensor 5: Integration Time = 3.4 ms
+2026/08/24 17:26:57.3 Sensor 6: Integration Time = 3.0 ms
+2026/08/24 17:26:57.3 Sensor 7: Integration Time = 3.1 ms
+2026/08/24 17:26:57.3 Sensor 8: Integration Time = 2.9 ms
+2026/08/24 17:27:04.8 Integration Time:  4.1, 2.6, 3.2, 2.7, 3.4, 3.0, 3.1, 2.9,
+2026/08/24 17:27:05.2 Plate 1 temperature = 25 C
+2026/08/24 17:27:05.2 Pickups: 3839, Warn: 90, Error: 100
+2026/08/24 17:27:47.8 Temp: 2026/08/24 17:27:47, 25.0000, 25.7000
+2026/08/24 17:28:12.9 Temp: 2026/08/24 17:28:12, 25.0000, 25.7000
+2026/08/24 17:29:13.1 Temp: 2026/08/24 17:29:13, 25.0000, 25.6000
+2026/08/24 17:30:13.2 Temp: 2026/08/24 17:30:13, 25.0000, 25.7000
+2026/08/24 17:31:13.4 Temp: 2026/08/24 17:31:13, 25.0000, 25.6000
+2026/08/24 17:32:13.5 Temp: 2026/08/24 17:32:13, 25.0000, 25.7000
+2026/08/24 17:33:13.7 Temp: 2026/08/24 17:33:13, 25.0000, 25.6000
+2026/08/24 17:33:13.8 Temp: 2026/08/24 17:33:13, 25.0000, 25.6000
+2026/08/24 17:34:13.9 Temp: 2026/08/24 17:34:13, 25.0000, 25.6000
+2026/08/24 17:35:14.0 Temp: 2026/08/24 17:35:14, 25.0000, 25.6000
+2026/08/24 17:35:25.0 Temp: 2026/08/24 17:35:25, 25.0000, 25.6000
+2026/08/24 17:36:25.2 Temp: 2026/08/24 17:36:25, 25.0000, 25.6000
+2026/08/24 17:37:25.3 Temp: 2026/08/24 17:37:25, 25.0000, 25.5000
+2026/08/24 17:38:25.5 Temp: 2026/08/24 17:38:25, 25.0000, 25.5000
+2026/08/24 17:39:25.7 Temp: 2026/08/24 17:39:25, 25.0000, 25.5000
+2026/08/24 17:40:25.8 Temp: 2026/08/24 17:40:25, 25.0000, 25.5000
+2026/08/24 17:40:37.2 Temp: 2026/08/24 17:40:37, 25.0000, 25.5000
+2026/08/24 17:41:37.3 Temp: 2026/08/24 17:41:37, 25.0000, 25.5000
+2026/08/24 17:42:37.5 Temp: 2026/08/24 17:42:37, 25.0000, 25.5000
+2026/08/24 17:43:37.7 Temp: 2026/08/24 17:43:37, 25.0000, 25.5000
+2026/08/24 17:44:37.8 Temp: 2026/08/24 17:44:37, 25.0000, 25.6000
+2026/08/24 17:45:38.0 Temp: 2026/08/24 17:45:38, 25.0000, 25.6000
+2026/08/24 17:46:15.4 Temp: 2026/08/24 17:46:15, 25.0000, 25.7000
+2026/08/24 17:46:24.5 DFIO: Start writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_001.frd
+2026/08/24 17:46:24.5 DFIO: Finished writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_001.frd
+2026/08/24 17:46:24.5 DFIO: Start writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_002.frd
+2026/08/24 17:46:24.5 DFIO: Finished writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_002.frd
+2026/08/24 17:46:24.5 DFIO: Start writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_003.frd
+2026/08/24 17:46:24.5 DFIO: Finished writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_003.frd
+2026/08/24 17:46:24.5 DFIO: Start writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_004.frd
+2026/08/24 17:46:24.5 DFIO: Finished writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_004.frd
+2026/08/24 17:46:24.5 DFIO: Start writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_005.frd
+2026/08/24 17:46:24.5 DFIO: Finished writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_005.frd
+2026/08/24 17:46:24.5 DFIO: Start writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_006.frd
+2026/08/24 17:46:24.5 DFIO: Finished writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_006.frd
+2026/08/24 17:46:24.5 DFIO: Start writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_007.frd
+2026/08/24 17:46:24.6 DFIO: Finished writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_007.frd
+2026/08/24 17:46:24.6 DFIO: Start writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_008.frd
+2026/08/24 17:46:24.6 DFIO: Finished writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_008.frd
+2026/08/24 17:46:24.6 DFIO: Finished writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_Manifest.fmx
+2026/08/24 17:46:25.0 Sensor 1: Integration Time = 4.1 ms
+2026/08/24 17:46:25.0 Sensor 2: Integration Time = 2.7 ms
+2026/08/24 17:46:25.0 Sensor 3: Integration Time = 3.4 ms
+2026/08/24 17:46:25.0 Sensor 4: Integration Time = 2.8 ms
+2026/08/24 17:46:25.0 Sensor 5: Integration Time = 3.4 ms
+2026/08/24 17:46:25.0 Sensor 6: Integration Time = 3.0 ms
+2026/08/24 17:46:25.0 Sensor 7: Integration Time = 3.0 ms
+2026/08/24 17:46:25.0 Sensor 8: Integration Time = 3.0 ms
+2026/08/24 17:46:32.6 Integration Time:  4.1, 2.7, 3.4, 2.8, 3.4, 3.0, 3.0, 3.0,
+2026/08/24 17:46:32.6 Plate 1 temperature = 25 C
+2026/08/24 17:46:32.6 Pickups: 3840, Warn: 90, Error: 100
+2026/08/24 17:47:15.6 Temp: 2026/08/24 17:47:15, 25.0000, 25.7000
+2026/08/24 17:47:40.7 Temp: 2026/08/24 17:47:40, 25.0000, 25.7000
+2026/08/24 17:48:40.8 Temp: 2026/08/24 17:48:40, 25.0000, 25.7000
+2026/08/24 17:49:41.0 Temp: 2026/08/24 17:49:41, 25.0000, 25.7000
+2026/08/24 17:50:41.2 Temp: 2026/08/24 17:50:41, 25.0000, 25.6000
+2026/08/24 17:51:41.3 Temp: 2026/08/24 17:51:41, 25.0000, 25.7000
+2026/08/24 17:52:41.5 Temp: 2026/08/24 17:52:41, 25.0000, 25.7000
+2026/08/24 17:52:51.5 Temp: 2026/08/24 17:52:51, 25.0000, 25.7000
+2026/08/24 17:53:51.6 Temp: 2026/08/24 17:53:51, 25.0000, 25.6000
+2026/08/24 17:54:51.8 Temp: 2026/08/24 17:54:51, 25.0000, 25.6000
+2026/08/24 17:55:03.1 Temp: 2026/08/24 17:55:03, 25.0000, 25.6000
+2026/08/24 17:56:03.3 Temp: 2026/08/24 17:56:03, 25.0000, 25.7000
+2026/08/24 17:57:03.4 Temp: 2026/08/24 17:57:03, 25.0000, 25.6000
+2026/08/24 17:58:03.6 Temp: 2026/08/24 17:58:03, 25.0000, 25.6000
+2026/08/24 17:59:03.7 Temp: 2026/08/24 17:59:03, 25.0000, 25.5000
+2026/08/24 18:00:03.9 Temp: 2026/08/24 18:00:03, 25.0000, 25.5000
+2026/08/24 18:00:15.3 Temp: 2026/08/24 18:00:15, 25.0000, 25.6000
+2026/08/24 18:01:15.4 Temp: 2026/08/24 18:01:15, 25.0000, 25.7000
+2026/08/24 18:02:15.6 Temp: 2026/08/24 18:02:15, 25.0000, 25.5000
+2026/08/24 18:03:15.7 Temp: 2026/08/24 18:03:15, 25.0000, 25.7000
+2026/08/24 18:04:15.9 Temp: 2026/08/24 18:04:15, 25.0000, 25.7000
+2026/08/24 18:05:16.0 Temp: 2026/08/24 18:05:16, 25.0000, 25.7000
+2026/08/24 18:05:53.9 Temp: 2026/08/24 18:05:53, 25.0000, 25.7000
+2026/08/24 18:06:02.5 DFIO: Start writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_009.frd
+2026/08/24 18:06:02.5 DFIO: Finished writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_009.frd
+2026/08/24 18:06:02.5 DFIO: Start writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_010.frd
+2026/08/24 18:06:02.5 DFIO: Finished writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_010.frd
+2026/08/24 18:06:02.5 DFIO: Start writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_011.frd
+2026/08/24 18:06:02.6 DFIO: Finished writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_011.frd
+2026/08/24 18:06:02.6 DFIO: Start writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_012.frd
+2026/08/24 18:06:02.6 DFIO: Finished writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_012.frd
+2026/08/24 18:06:02.6 DFIO: Start writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_013.frd
+2026/08/24 18:06:02.6 DFIO: Finished writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_013.frd
+2026/08/24 18:06:02.6 DFIO: Start writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_014.frd
+2026/08/24 18:06:02.6 DFIO: Finished writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_014.frd
+2026/08/24 18:06:02.6 DFIO: Start writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_015.frd
+2026/08/24 18:06:02.6 DFIO: Finished writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_015.frd
+2026/08/24 18:06:02.6 DFIO: Start writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_016.frd
+2026/08/24 18:06:02.6 DFIO: Finished writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_016.frd
+2026/08/24 18:06:02.6 DFIO: Finished writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_Manifest.fmx
+2026/08/24 18:06:03.2 Sensor 1: Integration Time = 4.0 ms
+2026/08/24 18:06:03.2 Sensor 2: Integration Time = 2.5 ms
+2026/08/24 18:06:03.2 Sensor 3: Integration Time = 3.2 ms
+2026/08/24 18:06:03.2 Sensor 4: Integration Time = 2.7 ms
+2026/08/24 18:06:03.2 Sensor 5: Integration Time = 3.4 ms
+2026/08/24 18:06:03.2 Sensor 6: Integration Time = 3.0 ms
+2026/08/24 18:06:03.2 Sensor 7: Integration Time = 3.1 ms
+2026/08/24 18:06:03.2 Sensor 8: Integration Time = 2.9 ms
+2026/08/24 18:06:10.8 Integration Time:  4.0, 2.5, 3.2, 2.7, 3.4, 3.0, 3.1, 2.9,
+2026/08/24 18:06:11.1 Plate 1 temperature = 25 C
+2026/08/24 18:06:11.1 Pickups: 3841, Warn: 90, Error: 100
+2026/08/24 18:06:54.0 Temp: 2026/08/24 18:06:54, 25.0000, 25.7000
+2026/08/24 18:07:19.1 Temp: 2026/08/24 18:07:19, 25.0000, 25.7000
+2026/08/24 18:08:19.3 Temp: 2026/08/24 18:08:19, 25.0000, 25.7000
+2026/08/24 18:09:19.4 Temp: 2026/08/24 18:09:19, 25.0000, 25.7000
+2026/08/24 18:10:19.7 Temp: 2026/08/24 18:10:19, 25.0000, 25.7000
+2026/08/24 18:11:19.8 Temp: 2026/08/24 18:11:19, 25.0000, 25.7000
+2026/08/24 18:12:19.7 Temp: 2026/08/24 18:12:19, 25.0000, 25.7000
+2026/08/24 18:13:19.8 Temp: 2026/08/24 18:13:19, 25.0000, 25.7000
+2026/08/24 18:14:20.0 Temp: 2026/08/24 18:14:20, 25.0000, 25.7000
+2026/08/24 18:14:31.0 Temp: 2026/08/24 18:14:31, 25.0000, 25.7000
+2026/08/24 18:15:31.1 Temp: 2026/08/24 18:15:31, 25.0000, 25.7000
+2026/08/24 18:16:31.3 Temp: 2026/08/24 18:16:31, 25.0000, 25.7000
+2026/08/24 18:17:31.4 Temp: 2026/08/24 18:17:31, 25.0000, 25.7000
+2026/08/24 18:18:31.6 Temp: 2026/08/24 18:18:31, 25.0000, 25.6000
+2026/08/24 18:19:31.7 Temp: 2026/08/24 18:19:31, 25.0000, 25.7000
+2026/08/24 18:19:43.4 Temp: 2026/08/24 18:19:43, 25.0000, 25.7000
+2026/08/24 18:20:43.6 Temp: 2026/08/24 18:20:43, 25.0000, 25.7000
+2026/08/24 18:21:43.8 Temp: 2026/08/24 18:21:43, 25.0000, 25.7000
+2026/08/24 18:22:43.9 Temp: 2026/08/24 18:22:43, 25.0000, 25.7000
+2026/08/24 18:23:44.1 Temp: 2026/08/24 18:23:44, 25.0000, 25.7000
+2026/08/24 18:24:44.2 Temp: 2026/08/24 18:24:44, 25.0000, 25.7000
+2026/08/24 18:25:21.7 Temp: 2026/08/24 18:25:21, 25.0000, 25.7000
+2026/08/24 18:25:30.5 DFIO: Start writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_017.frd
+2026/08/24 18:25:30.5 DFIO: Finished writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_017.frd
+2026/08/24 18:25:30.5 DFIO: Start writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_018.frd
+2026/08/24 18:25:30.5 DFIO: Finished writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_018.frd
+2026/08/24 18:25:30.5 DFIO: Start writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_019.frd
+2026/08/24 18:25:30.5 DFIO: Finished writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_019.frd
+2026/08/24 18:25:30.5 DFIO: Start writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_020.frd
+2026/08/24 18:25:30.5 DFIO: Finished writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_020.frd
+2026/08/24 18:25:30.5 DFIO: Start writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_021.frd
+2026/08/24 18:25:30.5 DFIO: Finished writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_021.frd
+2026/08/24 18:25:30.5 DFIO: Start writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_022.frd
+2026/08/24 18:25:30.5 DFIO: Finished writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_022.frd
+2026/08/24 18:25:30.5 DFIO: Start writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_023.frd
+2026/08/24 18:25:30.5 DFIO: Finished writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_023.frd
+2026/08/24 18:25:30.5 DFIO: Start writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_024.frd
+2026/08/24 18:25:30.5 DFIO: Finished writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_024.frd
+2026/08/24 18:25:30.5 DFIO: Finished writing C:\Users\Labuser\Desktop\ForteBio_UCSC\Partch\Becca\20260824 biotin CK1dC + LIN42 shortC AF Asp mutants\biotin CK1 short C NtoA muts\260824_Manifest.fmx
+2026/08/24 18:25:31.1 Sensor 1: Integration Time = 4.1 ms
+2026/08/24 18:25:31.1 Sensor 2: Integration Time = 2.6 ms
+2026/08/24 18:25:31.1 Sensor 3: Integration Time = 3.2 ms
+2026/08/24 18:25:31.1 Sensor 4: Integration Time = 2.7 ms
+2026/08/24 18:25:31.1 Sensor 5: Integration Time = 3.4 ms
+2026/08/24 18:25:31.1 Sensor 6: Integration Time = 3.0 ms
+2026/08/24 18:25:31.1 Sensor 7: Integration Time = 3.2 ms
+2026/08/24 18:25:31.1 Sensor 8: Integration Time = 3.0 ms
+2026/08/24 18:25:38.6 Integration Time:  4.1, 2.6, 3.2, 2.7, 3.4, 3.0, 3.2, 3.0,
+2026/08/24 18:25:38.9 Plate 1 temperature = 25 C
+2026/08/24 18:25:38.9 Pickups: 3842, Warn: 90, Error: 100
+2026/08/24 18:26:21.9 Temp: 2026/08/24 18:26:21, 25.0000, 25.8000
+2026/08/24 18:26:46.6 Temp: 2026/08/24 18:26:46, 25.0000, 25.7000
+2026/08/24 18:27:46.8 Temp: 2026/08/24 18:27:46, 25.0000, 25.7000
+2026/08/24 18:28:46.9 Temp: 2026/08/24 18:28:46, 25.0000, 25.7000
+2026/08/24 18:29:47.1 Temp: 2026/08/24 18:29:47, 25.0000, 25.6000
+2026/08/24 18:30:47.2 Temp: 2026/08/24 18:30:47, 25.0000, 25.7000
+2026/08/24 18:31:47.4 Temp: 2026/08/24 18:31:47, 25.0000, 25.7000
+2026/08/24 18:31:57.7 Temp: 2026/08/24 18:31:57, 25.0000, 25.6000
+2026/08/24 18:32:57.9 Temp: 2026/08/24 18:32:57, 25.0000, 25.6000
+2026/08/24 18:33:58.0 Temp: 2026/08/24 18:33:58, 25.0000, 25.6000
+2026/08/24 18:34:09.0 Temp: 2026/08/24 18:34:09, 25.0000, 25.6000
+2026/08/24 18:35:09.2 Temp: 2026/08/24 18:35:09, 25.0000, 25.5000
+2026/08/24 18:36:09.3 Temp: 2026/08/24 18:36:09, 25.0000, 25.5000
+2026/08/24 18:37:09.5 Temp: 2026/08/24 18:37:09, 25.0000, 25.6000
+2026/08/24 18:38:09.7 Temp: 2026/08/24 18:38:09, 25.0000, 25.5000
+2026/08/24 18:39:09.8 Temp: 2026/08/24 18:39:09, 25.0000, 25.6000
+2026/08/24 18:39:21.9 Temp: 2026/08/24 18:39:21, 25.0000, 25.5000
+2026/08/24 18:40:22.0 Temp: 2026/08/24 18:40:22, 25.0000, 25.5000
+2026/08/24 18:41:22.2 Temp: 2026/08/24 18:41:22, 25.0000, 25.5000
+2026/08/24 18:42:22.3 Temp: 2026/08/24 18:42:22, 25.0000, 25.5000
+2026/08/24 18:43:22.5 Temp: 2026/08/24 18:43:22, 25.0000, 25.5000
+2026/08/24 18:44:22.7 Temp: 2026/08/24 18:44:22, 25.0000, 25.5000
